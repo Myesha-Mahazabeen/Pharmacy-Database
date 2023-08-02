@@ -1,0 +1,4 @@
+root
+admin123
+127.0.0.1
+pharmacy
